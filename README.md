@@ -6,7 +6,7 @@ Smart Seed Suggestion - AI/ML-based seed recommendation system using STM32 senso
 ## 📌 Problem Statement
 Farmers struggle to pick the right seed for the next cycle. Wrong choices hurt yield, waste water/fertilizer, and cost money. We will suggest the best seed using soil pH, moisture, weather/climate and previous crop data.
 
-## 🎯 Objectives
+## 🎯 Objectives:
 - Collect: soil pH, moisture, temperature, humidity, water quality, past crop.
 - Train an ML model to recommend the next seed/crop.
 - Show result on LCD / mobile app / web dashboard.
